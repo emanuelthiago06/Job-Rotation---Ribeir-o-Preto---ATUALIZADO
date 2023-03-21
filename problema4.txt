@@ -1,0 +1,26 @@
+Considerando que eles se cruzam depois dos dois passarem pelos pedágios:
+
+O carro sai 10 minutos antes do caminhão:
+
+V = D/t => D = V*t => D = 100*10/60 = 16.6667km
+
+Eles se cruzam quando a soma das distâncias entre eles for 100km, temos:
+
+V1*t +V2*t = 100 - 16.6667
+t(V1+V2) = 83.333
+t = 83.333/190 => t = 0.438
+
+Para o carro:
+
+D = t*V1 = 48.24km + 16,6667 => 64.91km
+
+Para o Caminhão:
+
+D = t*V2 = 35.02km
+
+O carro está a 65km de Ribeirão Preto
+
+O caminhão está a 100-35 = 65km de Ribeirão Preto
+
+Pelos calculos o carro estaria mais perto, entretando pelos erros de arredondamento é possível dizer que ele
+estariam na mesma distância de ribeirão preto
